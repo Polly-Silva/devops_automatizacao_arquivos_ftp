@@ -1,4 +1,6 @@
 🚀 Script PowerShell para gerenciar arquivos via FTP
+
+
 Este repositório contém um script em PowerShell que facilita o trabalho de quem precisa gerenciar arquivos via FTP de forma automática. Se você está cansado de fazer downloads manuais, este script será seu melhor amigo!
 
 💡 O que o script faz?
