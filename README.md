@@ -27,11 +27,9 @@ Diretório de logs : Onde os registros das atividades serão salvas ( Logs).
 Instalar o WinSCP :
 O script depende do WinSCP para realizar a conexão FTP. Certifique-se de tê-lo instalado e configurado.
 
-Instalar o WinSCP :
-O script depende do WinSCP para realizar a conexão FTP, então tenha ele instalado e configurado. 
-
 ## ⚡ Como rodar o script?
-Com tudo configurado, basta rodar no PowerShell! Abra o PowerShell com permissão de administrador e execute o seguinte comando:
+Com tudo configurado, basta rodar no PowerShell! 
+Abra o PowerShell com permissão de administrador e execute o seguinte comando:
 
 .\script.ps1  
 
