@@ -36,12 +36,21 @@ Copiar código
 .\script.ps1  
 
 ## 🌟 Requisitos
+
 Windows com PowerShell 5.1 ou superior
-Cliente WinSCP instalado
+
+WinSCP instalado
+
 Permissões para leitura e gravação em diretórios configurados
-💬 O que você vai encontrar aqui?
+
+## 💬 O que você vai encontrar aqui?
+
 Um script PowerShell simples, mas poderoso!
+
 Automação de tarefas FTP que vai economizar seu tempo.
+
 Um processo de backup que vai deixar seus arquivos em segurança.
 
 Não perca tempo com tarefas manuais – deixe o script fazer o trabalho pesado para você! 😎
+
+OBS: Adicione o seu script.ps1no Agendador de Tarefas do Windows para que ele seja executado no horário e frequência que você preferir!
