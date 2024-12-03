@@ -19,8 +19,11 @@ Antes de começar, basta configurar alguns detalhes no código para adaptar à s
 Caminhos de Diretórios :
 
 Diretório temporário onde os arquivos serão baixados ( tempfolder)
+
 Diretório de backup onde os arquivos antigos vão parar ( Backup)
+
 Local para os logs que registram tudo o que acontece ( Logs)
+
 Instalar o WinSCP :
 O script depende do WinSCP para realizar a conexão FTP, então tenha ele instalado e configurado. Se não tiver, baixe aqui .
 
