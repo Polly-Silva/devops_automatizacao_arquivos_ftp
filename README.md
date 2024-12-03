@@ -25,7 +25,7 @@ Diretório de backup onde os arquivos antigos vão parar ( Backup)
 Local para os logs que registram tudo o que acontece ( Logs)
 
 Instalar o WinSCP :
-O script depende do WinSCP para realizar a conexão FTP, então tenha ele instalado e configurado. Se não tiver, baixe aqui .
+O script depende do WinSCP para realizar a conexão FTP, então tenha ele instalado e configurado. 
 
 ## ⚡ Como rodar o script?
 Com tudo configurado, é só rodar no PowerShell! Abra o PowerShell com permissão de administrador e execute o seguinte comando:
