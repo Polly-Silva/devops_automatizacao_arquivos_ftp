@@ -51,4 +51,4 @@ Faça backup dos arquivos , mantendo tudo seguro e organizado.
 
 Não perca tempo com tarefas manuais – deixe o script fazer o trabalho pesado para você! 😎
 
-OBS: Adicione o seu script.ps1no Agendador de Tarefas do Windows para que ele seja executado no horário e frequência que você preferir!
+OBS: Adicione o seu script.ps1 no Agendador de Tarefas do Windows para que ele seja executado no horário e frequência que você preferir!
