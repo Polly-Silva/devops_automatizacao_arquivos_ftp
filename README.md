@@ -1,38 +1,38 @@
 ## 🚀 Script PowerShell para gerenciar arquivos via FTP
 
 
-Este repositório contém um script em PowerShell que facilita o trabalho de quem precisa gerenciar arquivos via FTP de forma automática. Se você está cansado de fazer downloads manuais, este script será seu melhor amigo!
+Este repositório contém um script PowerShell que facilita o gerenciamento de arquivos via FTP de maneira automática. Se você está cansado de fazer downloads manuais, esse script será seu melhor amigo!
 
 ## 💡 O que o script faz?
-Busca de Arquivos no FTP :
-Quer baixar arquivos automaticamente? O script permite configurar filtros por dados e extensão para pegar os arquivos de maneira simples.
+Busca de arquivos no FTP :
+Precisa baixar arquivos automaticamente? O script permite configurar filtros por dados e extensão para pegar os arquivos com facilidade.
 
 Limpeza e Organização :
-Arquivos antigos? Não se preocupe! Ele move tudo para um diretório de backup, mantendo sua pasta limpa e organizada.
+Arquivos antigos acumulando? Não se preocupe! Ele move tudo para um diretório de backup, mantendo sua pasta organizada e sem bagunça.
 
-Logs de Tudo :
-Nada passa batido! O script gera registros detalhados de todas as atividades, então você vai saber tudo o que aconteceu durante a execução.
+Logs Detalhados :
+Nada passa despercebido! O script gera registros detalhados de todas as atividades, então você sempre saberá o que aconteceu durante a execução.
 
 ## 🛠️ Como configurar?
-Antes de começar, basta configurar alguns detalhes no código para adaptar à sua necessidade:
+Antes de começar, você só precisa ajustar alguns detalhes no código para adequá-lo às suas necessidades:
 
 Caminhos de Diretórios :
 
-Diretório temporário onde os arquivos serão baixados ( tempfolder)
+Diretório temporário : Onde os arquivos serão baixados ( tempfolder).
 
-Diretório de backup onde os arquivos antigos vão parar ( Backup)
+Diretório de backup : Para armazenar os arquivos antigos ( Backup).
 
-Local para os logs que registram tudo o que acontece ( Logs)
+Diretório de logs : Onde os registros das atividades serão salvas ( Logs).
+
+Instalar o WinSCP :
+O script depende do WinSCP para realizar a conexão FTP. Certifique-se de tê-lo instalado e configurado.
 
 Instalar o WinSCP :
 O script depende do WinSCP para realizar a conexão FTP, então tenha ele instalado e configurado. 
 
 ## ⚡ Como rodar o script?
-Com tudo configurado, é só rodar no PowerShell! Abra o PowerShell com permissão de administrador e execute o seguinte comando:
+Com tudo configurado, basta rodar no PowerShell! Abra o PowerShell com permissão de administrador e execute o seguinte comando:
 
-powershell
-
-Copiar código
 .\script.ps1  
 
 ## 🌟 Requisitos
@@ -47,9 +47,9 @@ Permissões para leitura e gravação em diretórios configurados
 
 Um script PowerShell simples, mas poderoso!
 
-Automação de tarefas FTP que vai economizar seu tempo.
+Automação de tarefas FTP , que vai economizar seu tempo.
 
-Um processo de backup que vai deixar seus arquivos em segurança.
+Faça backup dos arquivos , mantendo tudo seguro e organizado.
 
 Não perca tempo com tarefas manuais – deixe o script fazer o trabalho pesado para você! 😎
 
